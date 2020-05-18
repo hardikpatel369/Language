@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Language</string>
+
+    <string name="profile">Profile</string>
+    <string name="name">Name :</string>
+    <string name="mob">Mobile :</string>
+    <string name="email">Email :</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ભાષા</string>
+
+    <string name="profile">પ્રોફાઇલ</string>
+    <string name="name">નામ :</string>
+    <string name="mob">મોબાઇલ :</string>
+    <string name="email">ઇમેઇલ :</string>
+
+</resources>
